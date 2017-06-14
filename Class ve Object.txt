@@ -1,0 +1,11 @@
+Class - obyekt ve onlarla ish metodlari strukturunun tesviridir.
+
+Class - proqramci terefinden mueyyen data type sinif deyishen obyektdir.
+
+
+
+
+Object - xasseleri xarici proqramlashdirma obyektin tesviri olan bir data strukturudur.
+
+Method - obyekt ile ishleyen bir funksiyadir. 
+
